@@ -42,5 +42,5 @@ function create() {
         fa.style.backgroundColor = color;
         i.style.color = color;
         author.style.color = color;
-    }, 1000);
+    }, 800);
 }
